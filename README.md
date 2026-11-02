@@ -1,7 +1,7 @@
 
 # 🧭 ROS 2 Action-Based Navigation System
 
-A high-level, modular, and extensible implementation of a **ROS 2 Action server-client framework** that enables robot navigation to 3D coordinate targets with real-time feedback. This project demonstrates advanced concepts in ROS 2 such as custom actions, asynchronous communication, and real-time telemetry tracking.
+A high-level, modular and extensible implementation of a **ROS 2 Action server-client framework** that enables robot navigation to 3D coordinate targets with real-time feedback. This project demonstrates advanced concepts in ROS 2 such as custom actions, asynchronous communication and real-time telemetry tracking.
 
 ---
 
@@ -22,7 +22,7 @@ A high-level, modular, and extensible implementation of a **ROS 2 Action server-
 
 ## 🧠 Overview
 
-This package provides a complete simulation pipeline for robot navigation using ROS 2 Actions. It consists of an **Action Server** that listens for target coordinates and provides real-time feedback, and an **Action Client** that sends the goal and handles the server’s response. The system is designed with extensibility and clarity in mind, perfect for robotics education or foundational development.
+This package provides a complete simulation pipeline for robot navigation using ROS 2 Actions. It consists of an **Action Server** that listens for target coordinates and provides real-time feedback and an **Action Client** that sends the goal and handles the server’s response. The system is designed with extensibility and clarity in mind, perfect for robotics education or foundational development.
 
 ---
 
